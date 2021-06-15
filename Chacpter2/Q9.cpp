@@ -1,7 +1,7 @@
 
 void SearchExchangeInsert(ElemType A[], ElemType B)
 {
-	int low = 0, high = A.length - 1, mid, n = A.length - 1;
+	int n = A.length, low = 0, high = n - 1, mid;
 
 	while (low <= high)
 	{
