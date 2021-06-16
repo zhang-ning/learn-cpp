@@ -14,7 +14,9 @@ void Reverse(int R[], int from, int to)
 void Converse(int R[], int n, int p)
 {
 	// 为什么这里 n 不取 n = R.length ?
-	Reverse(R, 0, p - 1);
-	Reverse(R, p, n - 1);
-	Reverse(R, 0, n - 1);
+	Reverse(R, 0, p - 1); // 时间复杂度 O(p/2)
+	Reverse(R, p, n - 1); // 时间复杂度 O((n-p)/2)
+	Reverse(R, 0, n - 1); // 时间复杂度 O (n/2)
 }
+
+// 整体时间复杂度是 O(n) 空间复杂度是 O(1)
