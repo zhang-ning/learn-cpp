@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbec55ce-8cb6-460d-9042-15040a5e2b2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPlusPlusThings" beforeDir="false" afterPath="$PROJECT_DIR$/CPlusPlusThings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPlusPlusThings/basic_content/const/class_const/first_example/apple.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CPlusPlusThings/basic_content/const/class_const/first_example/apple.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPlusPlusThings/basic_content/const/class_const/first_example/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CPlusPlusThings/basic_content/const/class_const/first_example/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPlusPlusThings/basic_content/func_pointer/func_pointer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CPlusPlusThings/basic_content/func_pointer/func_pointer.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2D3ecclfVf194vXhtWWGrPiFKj8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbec55ce-8cb6-460d-9042-15040a5e2b2e" name="Default Changelist" comment="" />
+      <created>1659932283165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659932283165</updated>
+      <workItem from="1659932287283" duration="393000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1022" y="305" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1659932377993">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1022" y="305" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.-564.1440.2537/0.23.2560.1337@0.23.2560.1337" timestamp="1659932377993" />
+  </component>
+</project>
